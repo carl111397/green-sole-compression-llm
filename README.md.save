@@ -36,6 +36,7 @@ Compression acts as an **overlay**:
 - Implement progressive compression for 3D virtual farm models.
 - Add benchmarks (bandwidth saved, latency improved).
 - Deploy on edge devices (low-cost farmer phones).
+
 ## LeetCode Connections
 
 This repo also includes **LeetCode-style solutions** that map to compression + LLM integration concepts:
